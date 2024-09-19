@@ -6,7 +6,7 @@ Predicting the existence of heart disease using machine learning techniques such
 This project aims to develop a machine learning-based predictive model to diagnose the existence of heart disease. It leverages data from various sources and uses multiple classification algorithms to provide insights and predictions that can assist in early diagnosis.
 
 ## Table of Contents
-- [Introduction]
+- [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Objectives](#objectives)
 - [Methodology](#methodology)
@@ -62,3 +62,11 @@ The project follows these steps:
 The model evaluation indicates that [mention best-performing model] performs best, with an accuracy of [mention accuracy %]. The results are consistent across multiple validation techniques.
 
 ## Project Structure
+Heart_Disease_Prediction_using_ML/ │ ├── Dataset/ │ └── heart_disease.csv │ ├── Proposal/ │ └── heart_disease_prediction_proposal.pdf │ ├── Notebooks/ │ └── heart_disease_prediction.ipynb │ ├── Reports/ │ └── heart_disease_prediction_report.pdf │ ├── README.md └── requirements.txt
+
+
+### Folder Details:
+- **Dataset**: Contains the heart disease dataset.
+- **Proposal**: The project proposal outlining the objectives and methodology.
+- **Notebook**: Jupyter notebook containing code for data analysis, model training and evaluation.
+- **Reports**: Final report detailing the project results, findings and conclusions.
