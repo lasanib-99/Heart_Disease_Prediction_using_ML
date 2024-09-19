@@ -59,7 +59,7 @@ The project follows these steps:
 - **Naïve Bayes**: Probability-based classification model.
 
 ## Results
-The model evaluation indicates that LR, SVM and GNB perform best, with an accuracy around 85%. The results are consistent across multiple validation techniques.
+The model evaluation indicates that LR, SVM and GNB perform best, thus ensemble method is used to enhance performance in which it obtains an accuracy around 85%. The results are consistent across multiple validation techniques.
 
 ### Folder Details:
 - **Dataset**: Contains the heart disease dataset.
